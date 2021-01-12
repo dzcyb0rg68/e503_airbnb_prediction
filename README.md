@@ -1,4 +1,4 @@
-# e503_airbnb_prediction# Smart Pricing - Airbnb Price Prediction for New York City
+# Smart Pricing - Airbnb Price Prediction for New York City
 
 A favorable recovery in the real estate market after the Covid-19 pandemic has been predicted by many analysts, and a significant rise in housing sources as well as the high demand for intelligently setting up the housing price for hosts can be expected. The goal of this project is to utilize machine learning techniques to train a Deep Neural Network model to predict the housing price for Airbnb properties in New York City.
 
